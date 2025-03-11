@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Jeremy Hidalgo",
+        "email": "jeresn@gmail.com",
+        "edad": "33",
+        "id": 1
+    },
+    {
+        "name": "Alexander Salinas",
+        "email": "asalinas@gmail.com",
+        "edad": "33",
+        "id": 2
+    },
+    {
+        "name": "aa",
+        "email": "asalinas@gmail.com",
+        "edad": "11",
+        "id": 3
+    },
+    {
+        "name": "Prueba",
+        "email": "prueba@gmail.com",
+        "edad": "44",
+        "id": 4
+    }
+]
